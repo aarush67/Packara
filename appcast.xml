@@ -3,12 +3,12 @@
     <channel>
         <title>Packara</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Tue, 24 Mar 2026 19:34:54 -0400</pubDate>
+            <title>1.0.0</title>
+            <pubDate>Tue, 24 Mar 2026 19:58:04 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aarush67/Packara/releases/download/v1.0.1/Packara.dmg" length="4684422" type="application/octet-stream" sparkle:edSignature="UGtk8texVaYXdpu7XqcGjrrPjHlVfMKRBJ16+wM28qXSUXT7CrQQh17OEfUzu2tHMeTqeQlyvqj1qzg7h1iNCg=="/>
+            <enclosure url="https://github.com/aarush67/Packara/releases/download/v1.0.0/Packara.dmg" length="4713749" type="application/octet-stream" sparkle:edSignature="d9Qza9NWHblvMMqDEMgUawrWEvu4sCJz9VIzKfjk/0ZreOLLz+MAoBbjG26AtWlBkglRERHR5TBZfljHa3x9Cw=="/>
         </item>
     </channel>
 </rss>
